@@ -195,7 +195,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/calib.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/calib.cfg
 
 # Doze mode
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     ZukDoze
 
 # DRM
